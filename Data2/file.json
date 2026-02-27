@@ -1,4 +1,4 @@
-data = [
+ [
     {
         "p_rel_url_": "ayodejioogunseye/Azure-Fabric/refs/heads/main/Data2/AdventureWorks_Calendar.csv",
         "p_sink_folder": "AdventureWorks_Calendar",
